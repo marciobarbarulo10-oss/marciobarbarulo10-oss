@@ -1,48 +1,17 @@
-# Olá, eu sou o Marcio! 👋
-### Python & JavaScript Developer — São Paulo, BR
+# Márcio Beraldo
 
-Desenvolvedor focado em automações, APIs e dashboards web.
-Transformo processos manuais em sistemas que funcionam sozinhos.
+### Supply Chain & Comércio Exterior | Automação de Processos
 
----
+Atuo com importação em ambiente regulado e construo as automações que a operação precisa. Python aplicado a processo real: rastreamento, controle documental e análise de lead time.
 
-## 🚀 O que eu faço
+**Projeto em destaque**
 
-- 🐍 **Automações Python** — scripts, APIs REST, web scraping, integrações
-- 🌐 **Web** — HTML, CSS, JavaScript, Node.js
-- 📊 **Dashboards** — relatórios interativos com dados reais
-- 📱 **Mobile** — apps com Flutter
+**[FedEx AWB Tracker](https://github.com/marciobarbarulo10-oss/fedex-awb-tracker-v3)** — Rastreamento automático de remessas internacionais via API oficial da FedEx. Consulta paralela, classificação de status em 6 estágios, detecção de mudanças entre execuções, cálculo de dias úteis brasileiros com feriados móveis e dashboard web com análise de lead time por região.
 
----
+`Python` `pandas` `openpyxl` `REST API` `HTML/JS`
 
-## 🏆 Projeto em destaque
+**Stack:** Python (pandas, openpyxl), integração com APIs REST, HTML/CSS/JS
 
-### [📦 FedEx AWB Tracker](https://github.com/marciobarbarulo10-oss/fedex-awb-tracker-v3)
-Sistema de rastreamento automático de remessas internacionais via API oficial FedEx.
-Dashboard web interativo, alertas de atraso, relatórios Excel e cálculo de dias úteis brasileiros.
-Desenvolvido para operações reais de importação farmacêutica.
+**Contato:** [LinkedIn](https://www.linkedin.com/in/m%C3%A1rcio-beraldo-885b6819b/) · marciobarbarulo10@gmail.com
 
-`Python` `FedEx API` `HTML/JS` `pandas` `openpyxl`
-
----
-
-## 🛠 Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
----
-
-## 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1rcio-be)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marciobarbarulo10@gmail.com)
-
-💼 **Disponível para freelas e oportunidades CLT**
-
----
-
-*"Código que resolve problemas reais."*
+São Paulo, SP
