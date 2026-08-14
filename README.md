@@ -6,7 +6,7 @@ Atuo com importação em ambiente regulado e construo as automações que a oper
 
 **Projeto em destaque**
 
-**[FedEx AWB Tracker](https://github.com/marciobarbarulo10-oss/fedex-awb-tracker-v3)** — Rastreamento automático de remessas internacionais via API oficial da FedEx. Consulta paralela, classificação de status em 6 estágios, detecção de mudanças entre execuções, cálculo de dias úteis brasileiros com feriados móveis e dashboard web com análise de lead time por região.
+**[FedEx AWB Tracker](https://github.com/marciobarbarulo10-oss/fedex-awb-tracker)** — Rastreamento automático de remessas internacionais via API oficial da FedEx. Consulta paralela, classificação de status em 6 estágios, detecção de mudanças entre execuções, cálculo de dias úteis brasileiros com feriados móveis e dashboard web com análise de lead time por região.
 
 `Python` `pandas` `openpyxl` `REST API` `HTML/JS`
 
