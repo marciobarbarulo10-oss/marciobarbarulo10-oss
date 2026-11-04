@@ -1,17 +1,27 @@
 # Márcio Beraldo
 
-### Supply Chain & Comércio Exterior | Automação de Processos
+Desenvolvo sistemas para operações de logística e frete. Vim da operação: antes de programar, eu fazia o trabalho que hoje automatizo.
 
-Atuo com importação em ambiente regulado e construo as automações que a operação precisa. Python aplicado a processo real: rastreamento, controle documental e análise de lead time.
+### No que estou trabalhando agora
 
-**Projeto em destaque**
+- Sistemas internos de uma transportadora: cotação, oferta de frete ao motorista e acompanhamento da operação.
+- Um atendimento por WhatsApp para motoristas, com regras claras de cadastro, oferta e reserva de cargas.
+- Graduação em Engenharia de Software.
 
-**[FedEx AWB Tracker](https://github.com/marciobarbarulo10-oss/fedex-awb-tracker)** — Rastreamento automático de remessas internacionais via API oficial da FedEx. Consulta paralela, classificação de status em 6 estágios, detecção de mudanças entre execuções, cálculo de dias úteis brasileiros com feriados móveis e dashboard web com análise de lead time por região.
+### O que já construí
 
-`Python` `pandas` `openpyxl` `REST API` `HTML/JS`
+- [Um rastreador de remessas internacionais](https://github.com/marciobarbarulo10-oss/fedex-awb-tracker) que consulta a transportadora sozinho, avisa quando uma carga trava na alfândega e entrega o relatório pronto em Excel. Nasceu de uma operação de importação em que tudo isso era feito à mão.
+- [Uma ferramenta que avalia o próprio perfil profissional](https://github.com/marciobarbarulo10-oss/vitrine) no LinkedIn e no GitHub, compara com vagas reais e transforma o que falta em uma tarefa curta por dia.
+- [Um app para quem vai cuidar de um pet pela primeira vez](https://github.com/marciobarbarulo10-oss/petfirst-app), com carteira de vacinação e cálculo de alimentação.
 
-**Stack:** Python (pandas, openpyxl), integração com APIs REST, HTML/CSS/JS
+### De onde venho
 
-**Contato:** [LinkedIn](https://www.linkedin.com/in/m%C3%A1rcio-beraldo-885b6819b/) · marciobarbarulo10@gmail.com
+Trabalhei com importação em ambiente regulado, cadeia fria em laboratório e expedição de e-commerce. Hoje cuido de cotações, contratação de motoristas, emissão de CT-e, CIOT e MDF-e e acompanhamento das cargas até a entrega, e escrevo o software que essa rotina pede.
 
-São Paulo, SP
+### Com o que trabalho
+
+Python, SQL, APIs REST, JavaScript, React Native, HTML e CSS, AWS, Git.
+
+### Contato
+
+[LinkedIn](https://www.linkedin.com/in/marcio-beraldo/) · marciobarbarulo10@gmail.com · São Paulo
